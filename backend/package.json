@@ -1,0 +1,13 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --watch index.js"
+  },
+  "dependencies": {
+    "@fastify/static": "^6.11.2",
+    "fastify": "^4.24.2"
+  }
+}
