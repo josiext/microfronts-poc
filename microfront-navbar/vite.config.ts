@@ -12,6 +12,7 @@ export default defineConfig({
       // Modules to expose
       exposes: {
         "./Button": "./src/components/Button",
+        "./Navbar": "./src/components/Navbar",
       },
       shared: ["react", "react-dom"],
     }),
