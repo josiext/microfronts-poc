@@ -1,6 +1,5 @@
 import "./App.css";
-import { Button } from "viteRemote/Button";
-import Navbar from "viteRemote/Navbar";
+import Navbar from "navbarRemote/Navbar";
 
 function App() {
   return (
